@@ -1,1 +1,0 @@
-imap <Up> <Nop>
